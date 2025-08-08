@@ -1,0 +1,5 @@
+c:\users\alumno 14\documents\visual studio 2012\Projects\2\2\bin\Debug\2.exe.config
+c:\users\alumno 14\documents\visual studio 2012\Projects\2\2\bin\Debug\2.exe
+c:\users\alumno 14\documents\visual studio 2012\Projects\2\2\bin\Debug\2.pdb
+c:\users\alumno 14\documents\visual studio 2012\Projects\2\2\obj\Debug\2.exe
+c:\users\alumno 14\documents\visual studio 2012\Projects\2\2\obj\Debug\2.pdb
